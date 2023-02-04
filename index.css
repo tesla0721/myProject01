@@ -1,0 +1,184 @@
+.arajin-1 {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.img {
+    width: 60px;
+    height: 60px;
+}
+
+.kes-glxavor-1 {
+    background-color: black;
+    position: relative;
+    width: 20px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+}
+
+.p {
+    color: wheat;
+}
+
+.erkrord-2 {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 90px;
+    top: 8px;
+
+
+}
+
+.klor-1,
+.klor-2 {
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    border-radius: 100%;
+}
+
+.klor-1 {
+
+    left: 40%;
+    top: 40%;
+}
+
+.klor-2 {
+    left: 40px;
+    top: 40px;
+}
+
+.tar {
+    background-color: black;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+.t {
+    color: aliceblue;
+}
+
+.marshal {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    left: 170px;
+    top: 8px;
+}
+
+.gic {
+    border: 1px solid green;
+    width: 200px;
+    position: absolute;
+    left: 250px;
+    top: 50px;
+}
+
+.zevs {
+    position: absolute;
+    left: 250px;
+    top: 30px;
+}
+
+.pashton {
+    left: 250px;
+    top: 55px;
+    position: absolute;
+}
+
+.tanki {
+    position: absolute;
+    left: 45%;
+    top: 0px;
+    font-size: 50px;
+}
+
+.online {
+    left: 47%;
+    top: 60px;
+    position: absolute;
+    font-size: 20px;
+}
+
+.glxnkar {
+    width: 100%;
+    height: 100%;
+}
+
+.gic-2 {
+    border: 1px solid black;
+    width: 100px;
+    position: absolute;
+    left: 1300px;
+    top: 50px;
+}
+
+.nkar-2 {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 88%;
+    top: -83px;
+}
+
+.size1 {
+    width: 60px;
+    height: 60px;
+}
+
+.grvacq1 {
+    background-color: black;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 60px;
+    bottom: 60px;
+}
+
+.grvacq {
+    color: aliceblue;
+}
+
+.nkar-3 {
+    border: 2px solid black;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 1477px;
+    top: -167px;
+}
+
+
+.nkar4 {
+    width: 60px;
+    height: 60px;
+}
+
+.gumar {
+    left: 1330px;
+    position: absolute;
+    top: 35px;
+}
+
+.coin {
+    left: 1330px;
+    position: absolute;
+    top: 50px; 
+}
