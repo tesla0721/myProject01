@@ -131,7 +131,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    left: 88%;
+    left: 89%;
     top: -83px;
 }
 
@@ -274,4 +274,44 @@
 .druzya {
     width: 60px;
     height: 60px;
+}
+
+.cheleng {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 250px;
+    height: 150px;
+    background-color: green;
+    left: 1320px;
+    bottom: 600px;
+}
+
+.cheleng1 {
+    width: 240px;
+    height: 40px;
+    background-color: yellow;
+    transition: transform 0.5s linear, height 0.5s linear;
+}
+
+.cheleng1:hover {
+   transform: translateY(2px);
+    height: 40%;
+    background-color: #682121;
+    border: 1px solid black;
+}
+
+.cheleng2 {
+    width: 240px;
+    height: 40px;
+    background-color: yellowgreen;
+    transition: transform 0.5s linear, height 0.5s linear;
+}
+
+.cheleng2:hover {
+    transform: translateY(2px);
+    height: 40%;
+    background-color: #682121;
+    border: 1px solid black;
 }
